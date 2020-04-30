@@ -1,8 +1,6 @@
 # OCR
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/xGkgwK9lsjm0Kf4y1oO9phFV1-C1qNobjrXbh-xbIA2N7lYuKsMx_L7-NmuRavKOQdKa" width="250" height="45">
- </p>
+[![](https://img.shields.io/badge/Made_with-Android-red?style=for-the-badge&logo=android)](https://www.android.com/ "Android") [![](https://img.shields.io/badge/Made_with-Firebase-red?style=for-the-badge&logo=firebase)](https://firebase.google.com/ "Firebase") [![](https://img.shields.io/badge/IDE-Android_Studio-red?style=for-the-badge&logo=android-studio)](https://developer.android.com/studio "Android Studio")
 
 ## An OCR android app using Firebase Vision API from ML Firebase Kit.
 
